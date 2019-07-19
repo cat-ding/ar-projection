@@ -18,6 +18,7 @@ using Vuforia;
 public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 {
     public UnityEngine.Video.VideoPlayer videoPlayer;
+    public bool isTracked;
 
     #region PROTECTED_MEMBER_VARIABLES
 
@@ -113,7 +114,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     protected virtual void OnTrackingLost()
     {
 //        videoPlayer.Stop();
-//        videoPlayer.Pause();
+//         videoPlayer.Pause();
 
         if (mTrackableBehaviour)
         {
