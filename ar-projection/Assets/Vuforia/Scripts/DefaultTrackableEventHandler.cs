@@ -17,8 +17,8 @@ using Vuforia;
 /// </summary>
 public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 {
-    public UnityEngine.Video.VideoPlayer gumPlayer;
-    public UnityEngine.Video.VideoPlayer ballPlayer;
+    //public UnityEngine.Video.VideoPlayer gumPlayer;
+    //public UnityEngine.Video.VideoPlayer ballPlayer;
     public bool isTracked;
 
     #region PROTECTED_MEMBER_VARIABLES

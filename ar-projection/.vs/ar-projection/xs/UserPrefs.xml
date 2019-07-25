@@ -2,10 +2,11 @@
   <MonoDevelop.Ide.ItemProperties.VuforiaEditorScripts PreferredExecutionTarget="6a3d994a-9961-4eff-b8e8-cee894da1996" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VideoManager.cs">
     <Files>
-      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="93" Column="11" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="21" Column="7" />
+      <File FileName="Assets/PanelManager.cs" />
+      <File FileName="Assets/VideoManager.cs" Line="103" Column="26" />
+      <File FileName="Assets/ChromaKey.shader" Line="21" Column="40" />
       <File FileName="Assets/GreenToTransparent.shader" Line="1" Column="1" />
-      <File FileName="Assets/PanelManager.cs" Line="6" Column="26" />
-      <File FileName="Assets/VideoManager.cs" Line="28" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
