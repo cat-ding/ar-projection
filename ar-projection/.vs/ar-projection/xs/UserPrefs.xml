@@ -5,13 +5,13 @@
       <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="21" Column="7" />
       <File FileName="Assets/PanelManager.cs" />
       <File FileName="Assets/VideoManager.cs" Line="103" Column="26" />
-      <File FileName="Assets/ChromaKey.shader" Line="21" Column="40" />
-      <File FileName="Assets/GreenToTransparent.shader" Line="1" Column="1" />
+      <File FileName="Assets/ChromaKey.shader" />
+      <File FileName="Assets/GreenToTransparent.shader" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9fa19208-0580-4470-bddc-fa1e22f27f0a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b1c06168-ea2a-4556-ac8f-00cba3f2ce7b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/catherineding/Documents/gitkraken/ar-projection/ar-projection/Assets/VideoController.cs" relfile="Assets/VideoController.cs" line="11" column="1" />
